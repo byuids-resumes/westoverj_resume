@@ -54,7 +54,7 @@ During Spring semester of 2023 I was part of an administrative team focused on i
 - Wait tables
 
 `April 2021 - April 2022`
-**Host and Head Busser** — Egg Works
+**Host and Head Busser** - Egg Works
 
 - Greet and seat guests
 - Process transactions at POS
@@ -63,7 +63,7 @@ During Spring semester of 2023 I was part of an administrative team focused on i
 - Maintain cleanliness of restaurant
 
 `April 2019 - July 2020`
-**Cook and Cashier** — The Chicken Shack
+**Cook and Cashier** - The Chicken Shack
 
 - Prepare food
 - Take orders over the phone and in person
@@ -71,7 +71,7 @@ During Spring semester of 2023 I was part of an administrative team focused on i
 - Maintain cleanliness of restaurant
 
 `December 2014 - February 2015`
-**Shop Assistant** — Sander’s Construction
+**Shop Assistant** - Sander’s Construction
 
 - Created an inventory maintenance procedure
 - Inventory management
