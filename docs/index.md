@@ -5,11 +5,11 @@ title: Jackson Westover's Resume
 
 # Jackson Westover
 
-Studying Computer Science with and emphasis on Machine Learning at Brigham Young University - Idaho
+Studying Computer Science with an emphasis on Machine Learning at Brigham Young University - Idaho
 
 <div id="webaddress">
-<a href="JCWestover712@gmail.com">JCWestover712@gmail.com</a>
-| <a href="www.linkedin.com/in/jackson-westover-549813291">LinkedIn</a>
+JCWestover712@gmail.com
+| <a href="https://www.linkedin.com/in/jackson-westover-549813291">LinkedIn</a>
 | <a href="https://byuids-resumes.github.io/westoverj_resume/">GitHub</a>
 </div>
 
@@ -33,7 +33,7 @@ Studying Computer Science with and emphasis on Machine Learning at Brigham Young
 
 **Team Lead for Student Comfort Project** - BYU-I
 
-- During Spring semester of 2023 I was part of an administrative team focused on improving the comfort of students on campus while still respecting policies of our university. About 35 students were part of this team and during this project we created surveys, gathered data, raised awareness of our project, and created a proposal to present to the President’s Administrative Group.
+During Spring semester of 2023 I was part of an administrative team focused on improving the comfort of students on campus while still respecting policies of our university. About 35 students were part of this team and during this project we created surveys, gathered data, raised awareness of our project, and created a proposal to present to the President’s Administrative Group.
 
 ### Certifications
 
