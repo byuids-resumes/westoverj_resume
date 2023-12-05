@@ -18,10 +18,10 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 ## Education
 
-`2025-2027`
-**LDS Business College**, Salt Lake City, UT
+`Expected 2025`
+**Brigham Young University - Idaho**, Rexburg, ID
 
-- Full academic scholarship with 4.0 GPA
+- GPA
 
 `Expected 2029`
 **Brigham Young University - Idaho**, Rexburg, ID
