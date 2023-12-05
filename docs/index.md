@@ -13,8 +13,6 @@ JCWestover712@gmail.com
 | <a href="https://byuids-resumes.github.io/westoverj_resume/">GitHub</a>
 </div>
 
-<!-- https://www.monique.tech/the-art-of-markdown -->
-
 ## Education
 
 `Expected 2025`
@@ -84,4 +82,4 @@ During Spring semester of 2023 I was part of an administrative team focused on i
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: December 2023 -->
