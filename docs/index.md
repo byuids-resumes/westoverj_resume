@@ -10,7 +10,7 @@ Studying Computer Science with an emphasis on Machine Learning at Brigham Young 
 <div id="webaddress">
 JCWestover712@gmail.com
 | <a href="https://www.linkedin.com/in/jackson-westover-549813291">LinkedIn</a>
-| <a href="https://byuids-resumes.github.io/westoverj_resume/">GitHub</a>
+| <a href="https://github.com/byuids-resumes/westoverj_resume">GitHub</a>
 </div>
 
 ## Education
