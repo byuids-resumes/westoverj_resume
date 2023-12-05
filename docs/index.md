@@ -5,13 +5,12 @@ title: Jackson Westover's Resume
 
 # Jackson Westover
 
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+Studying Computer Science with and emphasis on Machine Learning at Brigham Young University - Idaho
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+<a href="JCWestover712@gmail.com">JCWestover712@gmail.com</a>
+| <a href="www.linkedin.com/in/jackson-westover-549813291">LinkedIn</a>
+| <a href="https://byuids-resumes.github.io/westoverj_resume/">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
@@ -21,63 +20,67 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 `Expected 2025`
 **Brigham Young University - Idaho**, Rexburg, ID
 
-- GPA
+## Skills
 
-`Expected 2029`
-**Brigham Young University - Idaho**, Rexburg, ID
-
-- 4.0 Major GPA
+- Skilled in working in teams.
+- Dependable and punctual.
+- Works well under pressure.
+- Able to handle workplace conflicts professionally.
 
 ## Related Experience
 
-### Internships
+### Projects
 
-`January 2028 - June 2028`
-**Pacific Northwest National Lab**, Richland, WA
+**Team Lead for Student Comfort Project** - BYU-I
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- During Spring semester of 2023 I was part of an administrative team focused on improving the comfort of students on campus while still respecting policies of our university. About 35 students were part of this team and during this project we created surveys, gathered data, raised awareness of our project, and created a proposal to present to the President’s Administrative Group.
 
-### Data Science Lead
+### Certifications
 
-`April 2027 - June 2027`
-**Westmark Credit Union**, Consultant
+**Web Development Fundamentals** - Nucamp
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging.
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+**Data Structure and Algorithms with Python** - Nucamp
 
-`September 2027 - April 2028`
-**Good2Go**, Consultant
+**SQL and Data Modeling with Python** - Nucamp
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work
+### Work History
 
-### Data Science Consulting Team
+`February 2015 - March 2023`
+**Server and Takeout** - Buffalo Wild Wings
 
-`January 2027 - April 2027`
-**Imagine Learning**
+- Take orders from guests over the phone and in person
+- Bag orders
+- Process transactions from guests at POS
+- Maintain cleanliness of the restaurant
+- Ensure food orders are made to specification
+- Wait tables
 
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
+`April 2021 - April 2022`
+**Host and Head Busser** — Egg Works
 
-`April 2027 - July 2027`
-**Pinnacle Management Group**,
+- Greet and seat guests
+- Process transactions at POS
+- Assist takeout
+- Order and manage inventory
+- Maintain cleanliness of restaurant
 
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+`April 2019 - July 2020`
+**Cook and Cashier** — The Chicken Shack
 
-## Service and Work History
+- Prepare food
+- Take orders over the phone and in person
+- Bag orders
+- Maintain cleanliness of restaurant
 
-`2025-2027`
-**Math Tutor**, LDSBC
+`December 2014 - February 2015`
+**Shop Assistant** — Sander’s Construction
 
-`2023-2025`
-**Service Missionary**, South Africa
+- Created an inventory maintenance procedure
+- Inventory management
+- Parts delivery
+- Order parts
+- Inspect and maintain equipment to ensure workplace safety
+- Assist mechanics
 
 <!-- ### Footer
 
